@@ -1,4 +1,4 @@
-HelloWorld Servlet example with corresponding dockerfile
+HelloWorld Servlet example with corresponding dockerfil
 
 Use Maven Build first to create war file in Target folder.
 
